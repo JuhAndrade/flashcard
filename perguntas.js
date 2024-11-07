@@ -1,7 +1,12 @@
 criaCartao(
     'Programação',
     'Quem é Biliie Eilish?',
-    'Billie Eilish é cantora e compositora, nascida nos Estados Unidos. Ganhou notoriedade e fam acom seu single "Ocean Eyes", escrito e produzido por seu irmão Finneas. No ano de 2020, Billie foi convidada a fazer a música tema de um novo 007, o último de Daniel Craig, onde escreveu e produziu a música "No Time to Die".'
+    'Billie Eilish é cantora e compositora,
+    nascida nos Estados Unidos.
+    Ganhou notoriedade e fam acom seu single "Ocean Eyes", 
+    escrito e produzido por seu irmão Finneas. No ano de 2020,
+    Billie foi convidada a fazer a música tema de um novo 007,
+    o último de Daniel Craig, onde escreveu e produziu a música "No Time to Die".'
 )
 
 criaCartao(
