@@ -1,5 +1,5 @@
 criaCartao(
-    'Programação',
+    'Musica pop',
     'Quem é Biliie Eilish?',
     'Billie Eilish é cantora e compositora,
     nascida nos Estados Unidos.
@@ -10,9 +10,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Filmes',
+    'O que são os vingadpores?',
+    'Vingadores ou Os Vingadores, The Avengers no original em inglês
+     são um grupo de super-heróis de história em quadrinhos publicados nos Estados Unidos pela editora Marvel Comics. 
+    O grupo também aparece em adaptações da Marvel para cinema, desenho animado e jogos eletrônicos.
+
+'
 )
 
 criaCartao(
